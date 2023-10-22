@@ -1,3 +1,45 @@
+pre { 
+    border: 0; 
+    font-family: inherit; 
+    font-size: 100%; 
+    font-style: inherit; 
+    font-weight: inherit; 
+    margin: 0; 
+    outline: 0; 
+    padding: 0; 
+    vertical-align: baseline;
+} 
+
+pre { 
+    background: #fafafa; 
+    border: 1px dashed #ebebeb; 
+    color: #020202; 
+    font-family: Menlo,Monaco,Consolas,"Courier New",monospace; 
+    font-size: .75rem; 
+    margin: 0 0 1.625rem; 
+    max-width: 35%; 
+    overflow: auto; 
+    padding: .9375rem;
+} 
+
+.wp-block-code { 
+    box-sizing: border-box;
+} 
+
+.wp-block-code { 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    font-family: Menlo,Consolas,monaco,monospace; 
+    padding: .8em 1em;
+} 
+
+.wp-block-code { 
+    color: #020202; 
+    font-size: .75rem; 
+    padding: .9375rem; 
+    border-color: #ebebeb;
+} 
+
 body, html {
     height: 100%;
     margin: 0;
