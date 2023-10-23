@@ -1,3 +1,13 @@
+#timeline{
+    float: left; /* add this */
+    padding: 15px;
+}
+
+#second{
+    float: left;
+    padding: 15px;
+}
+
 html { 
     /* overflow-y: scroll; */
     overflow-x: hidden; 
@@ -28,7 +38,7 @@ pre {
     max-width: 60em;
     overflow: auto; 
     padding: .9375rem;
-} 
+}
 
 pre { 
     color: #020202;
@@ -65,8 +75,9 @@ code {
 } 
 
 code { 
-    font-family: Menlo,Monaco,Consolas,"Courier New",monospace; 
+    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
     font-size: .75rem;
+    line-height: 150%;
 } 
 
 .wp-block-code code  { 
@@ -77,6 +88,7 @@ code {
 } 
 
 body, html {
+    /*line-height: 130%;*/
     height: 100%;
     margin: 0;
     font-family: Inconsolata, "Trebuchet MS", Helvetica, sans-serif;
