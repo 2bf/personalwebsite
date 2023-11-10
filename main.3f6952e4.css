@@ -16,6 +16,25 @@
     width: 50%;
 }
 
+#timeline pre {
+    white-space: pre-wrap; /* Allows text to wrap within the pre element */
+    word-break: break-word; /* Ensures breaking at word boundaries */
+    overflow-wrap: break-word; /* An alternative to word-break in modern browsers */
+}
+
+#second pre {
+    white-space: pre-wrap; /* Allows text to wrap within the pre element */
+    word-break: break-word; /* Ensures breaking at word boundaries */
+    overflow-wrap: break-word; /* An alternative to word-break in modern browsers */
+}
+
+@media screen and (max-width: 800px) {
+	#timeline, #second {
+	  width: 100%
+	}
+	
+}
+
 .topimage {
     display: block;
     margin-left: auto;
