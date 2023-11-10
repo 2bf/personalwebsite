@@ -391,7 +391,7 @@ p{
     font-weight:300;
     line-height:1.4
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .lead{
         font-size:16.5px
     }
@@ -532,7 +532,7 @@ dd{
 .dl-horizontal dd:after{
     clear:both
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .dl-horizontal dt{
         float:left;
         width:160px;
@@ -650,7 +650,7 @@ pre code{
 .container:after{
     clear:both
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .container{
         width:750px
     }
@@ -851,7 +851,7 @@ pre code{
 .col-xs-offset-12{
     margin-left:100%
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .col-sm-1,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12{
         float:left
     }
@@ -1779,7 +1779,7 @@ input[type=search]{
     margin-bottom:10px;
     color:#404040
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .form-inline .form-group{
         display:inline-block;
         margin-bottom:0;
@@ -1843,7 +1843,7 @@ input[type=search]{
 .form-horizontal .form-group:after{
     clear:both
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .form-horizontal .control-label{
         text-align:right;
         margin-bottom:0;
@@ -1853,13 +1853,13 @@ input[type=search]{
 .form-horizontal .has-feedback .form-control-feedback{
     right:15px
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .form-horizontal .form-group-lg .control-label{
         padding-top:11px;
         font-size:14px
     }
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .form-horizontal .form-group-sm .control-label{
         padding-top:6px;
         font-size:10px
@@ -2285,7 +2285,7 @@ tbody.collapse.in{
     bottom:100%;
     margin-bottom:2px
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-right .dropdown-menu{
         right:0;
         left:auto
@@ -2636,7 +2636,7 @@ tbody.collapse.in{
     top:auto;
     left:auto
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .nav-justified>li,.nav-tabs.nav-justified>li{
         display:table-cell;
         width:1%
@@ -2655,7 +2655,7 @@ tbody.collapse.in{
 .nav-tabs-justified>.active>a,.nav-tabs-justified>.active>a:focus,.nav-tabs-justified>.active>a:hover,.nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:focus,.nav-tabs.nav-justified>.active>a:hover{
     border:1px solid #ddd
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .nav-tabs-justified>li>a,.nav-tabs.nav-justified>li>a{
         border-bottom:1px solid #ddd;
         border-radius:0 0 0 0
@@ -2688,7 +2688,7 @@ tbody.collapse.in{
 .navbar:after{
     clear:both
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar{
         border-radius:0
     }
@@ -2700,7 +2700,7 @@ tbody.collapse.in{
 .navbar-header:after{
     clear:both
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-header{
         float:left
     }
@@ -2723,7 +2723,9 @@ tbody.collapse.in{
 .navbar-collapse.in{
     overflow-y:auto
 }
-@media (min-width:768px){
+
+/*controls how narrow the screen must be for the navbar menu to collapse*/
+@media (min-width:992px){
     .navbar-collapse{
         width:auto;
         border-top:0;
@@ -2755,7 +2757,7 @@ tbody.collapse.in{
     margin-right:-15px;
     margin-left:-15px
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .container-fluid>.navbar-collapse,.container-fluid>.navbar-header,.container>.navbar-collapse,.container>.navbar-header{
         margin-right:0;
         margin-left:0
@@ -2765,7 +2767,7 @@ tbody.collapse.in{
     z-index:1000;
     border-width:0 0 1px
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-static-top{
         border-radius:0
     }
@@ -2776,7 +2778,7 @@ tbody.collapse.in{
     left:0;
     z-index:1030
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-fixed-bottom,.navbar-fixed-top{
         border-radius:0
     }
@@ -2803,7 +2805,7 @@ tbody.collapse.in{
 .navbar-brand>img{
     display:block
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar>.container-fluid .navbar-brand,.navbar>.container .navbar-brand{
         margin-left:-15px
     }
@@ -2832,7 +2834,7 @@ tbody.collapse.in{
 .navbar-toggle .icon-bar+.icon-bar{
     margin-top:4px
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-toggle{
         display:none
     }
@@ -2865,7 +2867,7 @@ tbody.collapse.in{
         background-image:none
     }
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-nav{
         float:left;
         margin:0
@@ -2886,7 +2888,7 @@ tbody.collapse.in{
     -webkit-box-shadow:inset 0 1px 0 hsla(0,0%,100%,.1),0 1px 0 hsla(0,0%,100%,.1);
     box-shadow:inset 0 1px 0 hsla(0,0%,100%,.1),0 1px 0 hsla(0,0%,100%,.1)
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-form .form-group{
         display:inline-block;
         margin-bottom:0;
@@ -2939,7 +2941,7 @@ tbody.collapse.in{
         margin-bottom:0
     }
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-form{
         width:auto;
         border:0;
@@ -2979,14 +2981,14 @@ tbody.collapse.in{
     margin-top:.5px;
     margin-bottom:.5px
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-text{
         float:left;
         margin-left:15px;
         margin-right:15px
     }
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-left{
         float:left!important
     }
@@ -3550,7 +3552,7 @@ button.close{
 .carousel-caption .btn{
     text-shadow:none
 }
-@media screen and (min-width:768px){
+@media screen and (min-width:992px){
     .carousel-control .glyphicon-chevron-left,.carousel-control .glyphicon-chevron-right,.carousel-control .icon-next,.carousel-control .icon-prev{
         width:30px;
         height:30px;
@@ -3647,7 +3649,7 @@ button.close{
         display:inline-block!important
     }
 }
-@media (min-width:768px) and (max-width:991px){
+@media (min-width:992px) and (max-width:991px){
     .visible-sm{
         display:block!important
     }
@@ -3661,17 +3663,17 @@ button.close{
         display:table-cell!important
     }
 }
-@media (min-width:768px) and (max-width:991px){
+@media (min-width:992px) and (max-width:991px){
     .visible-sm-block{
         display:block!important
     }
 }
-@media (min-width:768px) and (max-width:991px){
+@media (min-width:992px) and (max-width:991px){
     .visible-sm-inline{
         display:inline!important
     }
 }
-@media (min-width:768px) and (max-width:991px){
+@media (min-width:992px) and (max-width:991px){
     .visible-sm-inline-block{
         display:inline-block!important
     }
@@ -3739,7 +3741,7 @@ button.close{
         display:none!important
     }
 }
-@media (min-width:768px) and (max-width:991px){
+@media (min-width:992px) and (max-width:991px){
     .hidden-sm{
         display:none!important
     }
@@ -3878,7 +3880,7 @@ body.minimal{
 .section-container.only-container{
     min-height:84vh
 }
-@media (max-width:768px){
+@media (max-width:992px){
     .section-container:first-of-type{
         padding-top:30px
     }
@@ -4043,7 +4045,7 @@ textarea{
         filter:none
     }
 }
-@media (max-width:768px){
+@media (max-width:992px){
     .projects-carousel .carousel-control{
         display:none
     }
@@ -4091,7 +4093,7 @@ textarea{
     border:none;
     min-height:inherit
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar{
         margin:10px
     }
@@ -4103,7 +4105,7 @@ textarea{
 .navbar-default .navbar-collapse .navbar-nav,.navbar-inverse .navbar-collapse .navbar-nav{
     padding:20px
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-default .navbar-collapse,.navbar-inverse .navbar-collapse{
         margin:0;
         padding:30px 0
@@ -4125,7 +4127,7 @@ textarea{
 .navbar-default .navbar-toggle:focus,.navbar-default .navbar-toggle:hover,.navbar-inverse .navbar-toggle:focus,.navbar-inverse .navbar-toggle:hover{
     background-color:#fff
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-inverse .navbar-nav>li>a{
         border-right:1px solid #fff
     }
@@ -4139,12 +4141,12 @@ textarea{
 .navbar-default .navbar-nav{
     border-bottom:1px solid #eee
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-default .navbar-nav{
         border:none
     }
 }
-@media (min-width:768px){
+@media (min-width:992px){
     .navbar-default .navbar-nav>li>a{
         border-right:1px solid #000
     }
@@ -4155,7 +4157,7 @@ textarea{
 .navbar-default .navbar-toggle,.navbar-default .navbar-toggle:focus,.navbar-default .navbar-toggle:hover{
     background-color:#fff
 }
-@media (max-width:768px){
+@media (max-width:992px){
     .navbar-inverse{
         background-color:transparent
     }
