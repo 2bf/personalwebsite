@@ -9,19 +9,23 @@
 
 <url>
   <loc>https://chimingwang.net/</loc>
-  <lastmod>2023-09-10T19:08:04+00:00</lastmod>
+  <lastmod>2023-11-10T00:42:19+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://chimingwang.net/contact</loc>
-  <lastmod>2023-09-10T19:08:04+00:00</lastmod>
+  <loc>https://chimingwang.net/index.html</loc>
+  <lastmod>2023-11-10T00:42:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://chimingwang.net/photography</loc>
-  <lastmod>2023-09-10T19:08:04+00:00</lastmod>
+  <loc>https://chimingwang.net/contact.html</loc>
+  <lastmod>2023-11-10T00:42:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
+<url>
+  <loc>https://chimingwang.net/photography.html</loc>
+  <lastmod>2023-11-10T00:42:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>
