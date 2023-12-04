@@ -23,5 +23,9 @@ Disallow: /styles/
 Disallow: /images/
 Disallow: /linkedin.html
 Disallow: /linkedin
+Disallow: /abe.html
+Disallow: /abe
+Disallow: /bftny.html
+Disallow: /bftny
 
 Sitemap: https://chimingwang.net/sitemap.xml
