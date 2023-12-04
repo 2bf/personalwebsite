@@ -27,5 +27,7 @@ Disallow: /abe.html
 Disallow: /abe
 Disallow: /bftny.html
 Disallow: /bftny
+Disallow: /guhoo.html
+Disallow: /guhoo
 
 Sitemap: https://chimingwang.net/sitemap.xml
