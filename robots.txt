@@ -29,5 +29,7 @@ Disallow: /bftny.html
 Disallow: /bftny
 Disallow: /guhoo.html
 Disallow: /guhoo
+Disallow: /aquaponics
+Disallow: /aquaponics.html
 
 Sitemap: https://chimingwang.net/sitemap.xml
