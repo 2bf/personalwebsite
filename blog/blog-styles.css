@@ -379,8 +379,12 @@ hr{
     line-height:1;
     color:#777
 }
-.h1,.h2,.h3,h1,h2,h3{
+.h1,.h2,h1,h2{
     margin-top:19px;
+    margin-bottom:9.5px
+}
+.h3,h3{
+    margin-top:10px;
     margin-bottom:9.5px
 }
 .h1 .small,.h1 small,.h2 .small,.h2 small,.h3 .small,.h3 small,h1 .small,h1 small,h2 .small,h2 small,h3 .small,h3 small{
@@ -397,10 +401,15 @@ hr{
     font-size:70px
 }
 .h2,h2{
-    font-size:30px
+    font-size:26px
 }
 .h3,h3{
-    font-size:20px
+    font-size:17px;
+    line-height: 30%;
+}
+.sectionheader{
+    font-size:20px;
+    line-height:150%;
 }
 .h4,.h5,h4,h5{
     font-size:11px
@@ -3964,11 +3973,12 @@ p{
     position:relative;
     display:inline-block
 }
+/*
 .h2:after,.h2:before,h2:after,h2:before{
     content:"";
     position:absolute;
     height:100%;
-    background-color:#000;
+    background-color:#a02323;
     width:1px
 }
 .h2:before,h2:before{
@@ -3977,16 +3987,19 @@ p{
 .h2:after,h2:after{
     right:0
 }
+*/
 @media (min-width:992px){
     .h2,h2{
         padding:0 30px
     }
 }
+/*
 @media (max-width:992px){
     .h2:after,.h2:before,h2:after,h2:before{
         display:none
     }
 }
+*/
 .h1,.h2,.h3,h1,h2,h3{
     margin-bottom:20px
 }
