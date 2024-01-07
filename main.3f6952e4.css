@@ -3937,11 +3937,12 @@ p{
     position:relative;
     display:inline-block
 }
+/*
 .h2:after,.h2:before,h2:after,h2:before{
     content:"";
     position:absolute;
     height:100%;
-    background-color:#000;
+    background-color:#a02323;
     width:1px
 }
 .h2:before,h2:before{
@@ -3950,6 +3951,7 @@ p{
 .h2:after,h2:after{
     right:0
 }
+*/
 @media (min-width:992px){
     .h2,h2{
         padding:0 30px
