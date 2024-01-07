@@ -9,33 +9,38 @@
 
 <url>
   <loc>https://chimingwang.net/</loc>
-  <lastmod>2023-12-29T19:51:34+00:00</lastmod>
+  <lastmod>2024-01-07T05:18:19+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://chimingwang.net/blog</loc>
-  <lastmod>2023-12-29T19:51:34+00:00</lastmod>
+  <lastmod>2024-01-07T05:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://chimingwang.net/tech</loc>
-  <lastmod>2023-12-29T19:51:34+00:00</lastmod>
+  <lastmod>2024-01-07T05:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://chimingwang.net/ventures</loc>
-  <lastmod>2023-12-29T19:51:34+00:00</lastmod>
+  <lastmod>2024-01-07T05:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://chimingwang.net/photography</loc>
-  <lastmod>2023-12-29T19:51:34+00:00</lastmod>
+  <lastmod>2024-01-07T05:18:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://chimingwang.net/contact</loc>
-  <lastmod>2023-12-29T19:51:34+00:00</lastmod>
+  <lastmod>2024-01-07T05:18:19+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chimingwang.net/blog/newspace</loc>
+  <lastmod>2024-01-07T05:18:19+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
