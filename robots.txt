@@ -31,5 +31,6 @@ Disallow: /guhoo.html
 Disallow: /guhoo
 Disallow: /aquaponics
 Disallow: /aquaponics.html
+Disallow: /random.html
 
 Sitemap: https://chimingwang.net/sitemap.xml
