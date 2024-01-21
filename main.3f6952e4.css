@@ -74,6 +74,7 @@
         margin-right: auto;
         width: 200px;
         height: 200px;
+        float: none;
     }
     .topimage-old {
         display: block;
