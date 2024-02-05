@@ -21,6 +21,7 @@
 User-agent: *
 Disallow: /styles/
 Disallow: /images/
+Disallow: /other/
 Disallow: /linkedin.html
 Disallow: /linkedin
 Disallow: /abe.html
@@ -32,5 +33,6 @@ Disallow: /guhoo
 Disallow: /aquaponics
 Disallow: /aquaponics.html
 Disallow: /random.html
+Disallow: /other/photosfeb4.html
 
 Sitemap: https://chimingwang.net/sitemap.xml
