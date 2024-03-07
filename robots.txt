@@ -34,5 +34,6 @@ Disallow: /aquaponics
 Disallow: /aquaponics.html
 Disallow: /random.html
 Disallow: /other/photosfeb4.html
+Disallow: /other/40hz.html
 
 Sitemap: https://chimingwang.net/sitemap.xml
