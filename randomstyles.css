@@ -3862,6 +3862,7 @@ button.close{
         display:none!important
     }
 }
+/*
 #site-border-bottom,#site-border-left,#site-border-right,#site-border-top{
     background:#000;
     position:fixed;
@@ -3889,8 +3890,9 @@ button.close{
 #site-border-bottom{
     bottom:0
 }
+*/
 body{
-    padding:10px;
+    /*padding:10px;*/
     min-height:100vh
 }
 body.minimal{
@@ -3924,11 +3926,13 @@ body.minimal{
 .section-container-spacer{
     margin-bottom:30px
 }
+/*
 @media (min-width:1200px){
     .section-container-spacer{
         margin-bottom:40px
     }
 }
+*/
 .section-container{
     padding:60px 0
 }

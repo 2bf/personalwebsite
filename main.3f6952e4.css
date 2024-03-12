@@ -3924,19 +3924,23 @@ body.minimal{
 .section-container-spacer{
     margin-bottom:30px
 }
+/*
 @media (min-width:1200px){
     .section-container-spacer{
         margin-bottom:40px
     }
 }
+*/
 .section-container{
     padding:60px 0
 }
+/*
 @media (min-width:1200px){
     .section-container{
         padding:80px 0
     }
 }
+*/
 .section-container.only-container{
     min-height:84vh
 }
