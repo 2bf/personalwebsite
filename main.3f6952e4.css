@@ -3844,6 +3844,7 @@ button.close{
         display:none!important
     }
 }
+/*
 #site-border-bottom,#site-border-left,#site-border-right,#site-border-top{
     background:#000;
     position:fixed;
@@ -3871,6 +3872,7 @@ button.close{
 #site-border-bottom{
     bottom:0
 }
+*/
 body{
     padding:10px;
     min-height:100vh
