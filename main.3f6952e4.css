@@ -4,6 +4,22 @@
 /*! * Bootstrap v3.3.7 (http://getbootstrap.com) * Copyright 2011-2016 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
+.mainpagecontainer {
+    display: block;
+    width:83%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (max-width:767px){
+    .mainpagecontainer {
+        display: block;
+        width:90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 .footerflag {
     /*display: block;*/
     margin-left: 5%;
@@ -3874,7 +3890,7 @@ button.close{
 }
 */
 body{
-    padding:10px;
+    /*padding:10px;*/
     min-height:100vh
 }
 body.minimal{
