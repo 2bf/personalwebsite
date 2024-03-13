@@ -42,6 +42,31 @@
     margin-right: auto;
 }
 
+.mainpagebottomline {
+    width:100%;
+    text-align:center;
+    margin-left:normal;
+    border-color: #000000;
+    }
+
+/*
+.mainpagebottomline {
+    width:50%;
+    text-align:left;
+    margin-left:0;
+    border-color: #000000;
+}
+
+@media screen and (max-width:850px){
+    .mainpagebottomline {
+    width:100%;
+    text-align:center;
+    margin-left:normal;
+    border-color: #000000;
+    }
+}
+*/
+
 @media screen and (max-width:767px){
     .mainpagecontainer {
         display: block;
