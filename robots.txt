@@ -38,5 +38,9 @@ Disallow: /crypto
 Disallow: /crypto.html
 Disallow: /photography
 Disallow: /photography.html
+Disallow: /tech
+Disallow: /tech.html
+Disallow: /ventures
+Disallow: /ventures.html
 
 Sitemap: https://chimingwang.net/sitemap.xml
