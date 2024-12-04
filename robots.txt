@@ -42,5 +42,7 @@ Disallow: /tech
 Disallow: /tech.html
 Disallow: /ventures
 Disallow: /ventures.html
+Disallow: /photography
+Disallow: /photography.html
 
 Sitemap: https://chimingwang.net/sitemap.xml
