@@ -44,5 +44,9 @@ Disallow: /ventures
 Disallow: /ventures.html
 Disallow: /photography
 Disallow: /photography.html
+Disallow: /contact
+Disallow: /contact.html
+Disallow: /r/
+Disallow: /next
 
 Sitemap: https://chimingwang.net/sitemap.xml
