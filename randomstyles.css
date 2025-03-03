@@ -4,55 +4,56 @@
 /*! * Bootstrap v3.3.7 (http://getbootstrap.com) * Copyright 2011-2016 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
-a{
+/* Links */
+a {
     text-decoration: underline;
 }
 
-.footerflag {
-    /*display: block;*/
-    margin-left: 5%;
-    margin-right: auto;
-    width: 58.5px;
-    height: 30.78px;
-    float: right;
-}
-@media screen and (max-width: 1200px) {
-	.footerflag{
-        margin-right: 3%;
-    }
-	
-}
-
+/* Blog containers */
 .blogcontainer {
-    display: block;
-    width:83%;
-    margin-left: auto;
-    margin-right: auto;
+    width: 83%;
+    margin: 0 auto;
 }
 
-@media screen and (max-width:767px){
+@media screen and (max-width: 767px) {
     .blogcontainer {
-        display: block;
-        width:90%;
-        margin-left: auto;
-        margin-right: auto;
+        width: 90%;
     }
 }
 
+/* Images */
 .blogimagecentered {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 .random_image {
     display: block;
-    max-width:80%;
-    max-height:80%;
+    max-width: 80%;
+    max-height: 80%;
 }
 
 .captiontext {
     font-size: 90%;
+}
+
+/* Typography */
+body, p {
+    font-weight: 400;
+    letter-spacing: 0.8px;
+    line-height: 25px;
+    font-size: 14px;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-bottom: 9.5px;
+    line-height: 30%;
+}
+
+.sectionheader {
+    font-size: 20px;
+    line-height: 150%;
 }
 
 #timeline{
