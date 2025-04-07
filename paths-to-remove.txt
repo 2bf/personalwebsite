@@ -1,0 +1,5 @@
+regex:assets/images/feb4-2024/.*\.JPG
+regex:assets/v/.*\.mp4
+regex:other/.*\.mp3
+regex:blog/assets/newspace/.*\.(jpg|png)
+regex:other/saas-images/.*\.png
