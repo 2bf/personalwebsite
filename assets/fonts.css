@@ -1,0 +1,142 @@
+/* inconsolata regular */
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('./fonts/woff2/Inconsolata-Regular.woff2') format('woff2'),
+       url('./fonts/woff/Inconsolata-Regular.woff') format('woff'),
+       url('./fonts/ttf/Inconsolata-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* inconsolata bold */
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('./fonts/woff2/Inconsolata-Bold.woff2') format('woff2'),
+       url('./fonts/woff/Inconsolata-Bold.woff') format('woff'),
+       url('./fonts/ttf/Inconsolata-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Roboto Regular */
+@font-face {
+  font-family: 'Roboto';
+  src: url('./fonts/woff2/Roboto-Regular.woff2') format('woff2'),
+       url('./fonts/woff/Roboto-Regular.woff') format('woff'),
+       url('./fonts/ttf/Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Roboto Black */
+@font-face {
+  font-family: 'Roboto';
+  src: url('./fonts/woff2/Roboto-Black.woff2') format('woff2'),
+       url('./fonts/woff/Roboto-Black.woff') format('woff'),
+       url('./fonts/ttf/Roboto-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Roboto Mono Regular */
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('./fonts/woff2/RobotoMono-Regular.woff2') format('woff2'),
+       url('./fonts/woff/RobotoMono-Regular.woff') format('woff'),
+       url('./fonts/ttf/RobotoMono-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Roboto Mono Light */
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('./fonts/woff2/RobotoMono-Light.woff2') format('woff2'),
+       url('./fonts/woff/RobotoMono-Light.woff') format('woff'),
+       url('./fonts/ttf/RobotoMono-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Roboto Mono Bold */
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('./fonts/woff2/RobotoMono-Bold.woff2') format('woff2'),
+       url('./fonts/woff/RobotoMono-Bold.woff') format('woff'),
+       url('./fonts/ttf/RobotoMono-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* PPEditorialNew Regular */
+@font-face {
+  font-family: 'PPEditorialNew';
+  src: url('./fonts/woff2/PPEditorialNew-Regular.woff2') format('woff2'),
+       url('./fonts/woff/PPEditorialNew-Regular.woff') format('woff'),
+       url('./fonts/ttf/PPEditorialNew-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* PPEditorialNew Italic */
+@font-face {
+  font-family: 'PPEditorialNew';
+  src: url('./fonts/woff2/PPEditorialNew-Italic.woff2') format('woff2'),
+       url('./fonts/woff/PPEditorialNew-Italic.woff') format('woff'),
+       url('./fonts/ttf/PPEditorialNew-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PPEditorialNew Ultralight */
+@font-face {
+  font-family: 'PPEditorialNew';
+  src: url('./fonts/woff2/PPEditorialNew-Ultralight.woff2') format('woff2'),
+       url('./fonts/woff/PPEditorialNew-Ultralight.woff') format('woff'),
+       url('./fonts/ttf/PPEditorialNew-Ultralight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* PPEditorialNew Ultralight Italic */
+@font-face {
+  font-family: 'PPEditorialNew';
+  src: url('./fonts/woff2/PPEditorialNew-UltralightItalic.woff2') format('woff2'),
+       url('./fonts/woff/PPEditorialNew-UltralightItalic.woff') format('woff'),
+       url('./fonts/ttf/PPEditorialNew-UltralightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PPEditorialNew Ultrabold */
+@font-face {
+  font-family: 'PPEditorialNew';
+  src: url('./fonts/woff2/PPEditorialNew-Ultrabold.woff2') format('woff2'),
+       url('./fonts/woff/PPEditorialNew-Ultrabold.woff') format('woff'),
+       url('./fonts/ttf/PPEditorialNew-Ultrabold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* PPEditorialNew Ultrabold Italic */
+@font-face {
+  font-family: 'PPEditorialNew';
+  src: url('./fonts/woff2/PPEditorialNew-UltraboldItalic.woff2') format('woff2'),
+       url('./fonts/woff/PPEditorialNew-UltraboldItalic.woff') format('woff'),
+       url('./fonts/ttf/PPEditorialNew-UltraboldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+} 

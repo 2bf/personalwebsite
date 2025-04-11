@@ -50,5 +50,16 @@ Disallow: /r/
 Disallow: /next
 Disallow: /404.html
 Disallow: /404
+Disallow: /bitcoin.pdf
+Disallow: /addresses.html
+Disallow: /ttlb.html
+Disallow: /scouttutorial.html
+Disallow: /assets/
+Disallow: /main.70a66962.js
+Disallow: /main.70a66962.js.gz
+Disallow: /main.3f6952e4.css
+Disallow: /main.3f6952e4.css.gz
+Disallow: /randomstyles.css
+Disallow: /redirect.css
 
 Sitemap: https://chimingwang.net/sitemap.xml

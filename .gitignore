@@ -60,3 +60,6 @@ yarn-error.log*
 # System Files
 .DS_Store
 assets/.DS_Store
+
+# Local Netlify folder
+.netlify
