@@ -32,6 +32,7 @@ Disallow: /guhoo.html
 Disallow: /guhoo
 Disallow: /aquaponics
 Disallow: /aquaponics.html
+Disallow: /random
 Disallow: /random.html
 Disallow: /other/photosfeb4.html
 Disallow: /crypto
